@@ -1,0 +1,42 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "title": "Hacer la compra",
+      "categoria": "2"
+    },
+    {
+      "id": 2,
+      "title": "Ir a clase",
+      "categoria": "1"
+    },
+    {
+      "id": 3,
+      "title": "Hacer deberes",
+      "categoria": "1"
+    },
+    {
+      "id": 4,
+      "title": "Cocinar almuerzo",
+      "categoria": "2"
+    },
+    {
+      "id": 5,
+      "title": "Probar recetas",
+      "categoria": "2"
+    }
+  ],
+  "categoria": [
+    {
+        "id": "1",
+        "nombre": "universidad"
+    },
+    {
+      "id": "2",
+      "nombre": "cocina"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
